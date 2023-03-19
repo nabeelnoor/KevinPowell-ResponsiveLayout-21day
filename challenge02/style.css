@@ -24,12 +24,19 @@ body {
 }
 
 .container {
-  width: 80%;
-  max-width: 750px;
-  margin: 0 auto;
+  /* width: 80%; */
+  /* max-width: 750px; */
+  /* margin: 0 auto; */
   background: #23424a;
   color: white;
-  padding: 50px 0;
+  padding: 50px 50px;
+  padding-left: 10%;
+}
+
+.later-content {
+  /* padding: 50px 50px; */
+  max-width: 80%;
+  margin-left: 10%;
 }
 
 .intro-content {
